@@ -1796,5 +1796,27 @@
    "generation": "failed: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-latest:generateContent"
   },
   "headline": ""
+ },
+ {
+  "date": "2026-09-15",
+  "product": "Rice Husk Ash Granules",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 403 Client Error: Forbidden for url: https://api.github.com/repositories/1275044416/contents/public/images/blog/why-dust-free-rice-husk-ash-granules-are-better-for-continuous-casting.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🏭 Stop Losing Your Insulation to Furnace Drafts",
+  "caption": "🏭 Stop Losing Your Insulation to Furnace Drafts\n\nYou know the headache of throwing fine powder into a drafty continuous casting unit. Half of it blows away before it even hits the molten steel.\n\nThat means wasted material and a messy plant floor. Your operators end up breathing in that dust, too.\n\nThat is exactly why steel mills switch to our Rice Husk Ash Granules. These are small, solid pieces about 1 to 5 mm in size. Instead of catching the wind, they drop straight down into the metal.\n\nWhy it matters:\n✔ Heavy granules land right onto the melt.\n✔ Keeps your plant air clean and dust-free.\n✔ Traps heat instantly without flying away.\n✔ Made of 90%+ high silica rice husk ash.\n\nA good ladle covering compound stops radiation heat loss on liquid steel before continuous casting. That is a known fact cited by steel industry sources like IspatGuru. Our granules do exactly this, but without the annoying dust clouds.\n\nBecause they are high silica, they create a great thermal blanket. They melt smoothly over the surface to protect your metal. You use less material because every single grain actually reaches the target.\n\nWe proudly ship these dust-free granules to plants around the globe. If you need a rice husk ash exporter Germany bound, or a reliable partner for the UAE, South Korea, or Vietnam, we have you covered.\n\nStop sweeping up wasted powder. Get a CCM insulation powder that actually stays in the tundish. As a leading bulk rice husk ash supplier, we are ready to help your plant run smoother.\n\nwww.rhaindia.com\n+91-7381757575\nContact us for bulk orders, OEM supply and export inquiries.\n\n#RiceHuskAsh #SteelIndustry #ContinuousCasting #InsulationPowder #FoundryMaterials #Metallurgy #RHAIndia #SilicaAsh #ExportQuality #SteelPlant",
+  "imagePrompt": "Photorealistic industrial steel plant scene showing round, 1-5mm grey granules being smoothly spread over glowing molten steel in a continuous casting unit with no dust. In the crisp foreground, a branded Ambika bag sits clearly. Bag design: navy blue top, golden crown logo reading 'AMBIKA RHA', yellow bottom with bold text 'Rice Husk Ash Granules', and 'EXPORT QUALITY PRODUCT OF INDIA'. Text overlay on the image reads \"www.rhaindia.com\". High quality lighting.",
+  "image": "images/2026-09-15-rice-husk-ash-granules.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
