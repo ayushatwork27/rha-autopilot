@@ -1840,5 +1840,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-09-17",
+  "product": "Rice Husk Ash Cylindrical Pellets",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 403 Client Error: Forbidden for url: https://api.github.com/repositories/1275044416/contents/public/images/blog/how-uniform-rice-husk-ash-pellets-improve-steel-melt-coverage.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🎯 Better Melt Coverage with Uniform Pellets",
+  "caption": "🎯 Better Melt Coverage with Uniform Pellets\n\nManaging heat loss in liquid steel is hard work. Dust blowing around the shop floor makes it harder. But what if your insulation stayed exactly where you dropped it?\n\nWhy it matters:\n✔ Consistent cylinder shape spreads evenly over the melt.\n✔ Densified pellets mean almost zero dust waste.\n✔ Traps the heat inside your molten metal.\n✔ Easy to use with automatic feeding machines.\n\nUsing a good ladle covering compound helps stop radiation heat loss on liquid steel right before continuous casting. (According to steel industry resource IspatGuru). \n\nOur Rice Husk Ash Cylindrical Pellets give you exactly that protection. These pellets are made of compacted rice husk ash. They have over 90% silica (our tested specification) in a clean, densified form. When they hit the molten steel, they spread smoothly. This makes them a highly effective CCM insulation powder for continuous casting units.\n\nBecause they do not blow away easily, you use less material per heat. This helps keep the air cleaner for your workers. As a trusted rice husk ash exporter India, we know consistent quality matters for your steel plant. \n\nWe supply bulk molten metal covering compound globally. We ship export-ready material to South Korea, Italy, Turkey, Vietnam, and the USA. \n\nContact us for bulk orders, OEM supply and export inquiries.\n🌐 www.rhaindia.com\n📞 +91-7381757575\n\n#RiceHuskAsh #SteelMaking #ContinuousCasting #LadleInsulation #RHAIndia #FoundryMaterials",
+  "imagePrompt": "Photorealistic industrial steel plant scene showing glowing molten steel in a tundish. Clean, grey CYLINDRICAL pellets are being neatly dosed onto the liquid metal surface. In the foreground, a branded Ambika bulk bag sits securely on a wooden pallet. Bag design: navy blue top half with a golden crown logo and 'AMBIKA RHA', yellow bottom half with bold black text reading 'RICE HUSK ASH CYLINDRICAL PELLETS' and 'EXPORT QUALITY PRODUCT OF INDIA'. Professional lighting, sharp focus. Crisp text overlay: 'www.rhaindia.com'.",
+  "image": "images/2026-09-17-rice-husk-ash-cylindrical-pellets.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
