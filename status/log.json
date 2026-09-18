@@ -1862,5 +1862,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-09-18",
+  "product": "Rice Husk Powder",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 403 Client Error: Forbidden for url: https://api.github.com/repositories/1275044416/contents/public/images/blog/why-finely-ground-rice-husk-powder-is-the-perfect-roughage-carrier-for.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🌾 Consistent Filler for Your Cattle Feed",
+  "caption": "🌾 Consistent Filler for Your Cattle Feed\n\nRunning an animal feed mill requires reliable bulk ingredients. You need a roughage carrier that is consistent in size and always in stock.\n\nWhy it matters:\n✔ Pure organic plant material\n✔ Consistent ground powder size\n✔ Excellent bulk roughage for cattle\n✔ Easy to blend in feed mixers\n\nOur Rice Husk Powder is made from finely ground raw husk, backed by our tested quality standards. It provides natural cellulose and lignin, making it a perfect feed-grade filler for dairies. As a leading industrial raw material exporter India, we regularly supply feed mills and board manufacturers in Saudi Arabia, Qatar, South Korea, and Vietnam.\n\nContact us for bulk orders, OEM supply and export inquiries.\nwww.rhaindia.com\n+91-7381757575\n\n#RiceHuskPowder #AnimalFeed #CattleFeed #FeedMill #FeedIngredients #AgriculturalExport #BulkSupplier #RHAIndia",
+  "imagePrompt": "Photorealistic industrial marketing scene set in a clean, modern animal feed mill. In the foreground, a large pile of fine, tan-colored organic ground powder (Rice Husk Powder). Next to it is a printed industrial bulk bag with a navy blue top, a golden crown logo reading 'AMBIKA RHA', and a yellow bottom featuring the text 'RICE HUSK POWDER' and 'EXPORT QUALITY PRODUCT OF INDIA'. The background shows clean steel silos and feed mixing equipment. Warm, natural lighting. Text overlay in the corner: 'www.rhaindia.com'. No fire, no molten steel, no grey ash.",
+  "image": "images/2026-09-18-rice-husk-powder.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
