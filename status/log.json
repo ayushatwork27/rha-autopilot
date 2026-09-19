@@ -1884,5 +1884,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-09-19",
+  "product": "Rice Husk Pellets",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 403 Client Error: Forbidden for url: https://api.github.com/repositories/1275044416/contents/public/images/blog/why-rice-husk-pellets-are-the-smartest-biomass-fuel-for-industrial-boi.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🌱 Want Cheaper Boiler Fuel? Try Rice Husk Pellets",
+  "caption": "🌱 Want Cheaper Boiler Fuel? Try Rice Husk Pellets\n\nRunning an industrial boiler is very expensive if you only use coal. Coal prices jump around constantly, and factory emissions rules get tighter every single year.\n\nThat is why smart plant managers are switching to densified biomass fuel. Our rice husk pellets offer a clean, high-energy alternative for your daily operations.\n\nWhy it matters:\n✔ High heat output keeps your steam pressure steady.\n✔ Less waste ash is left behind compared to raw coal.\n✔ Uniform pellet shape ensures smooth automatic feeding.\n✔ Fast and easy way to lower your plant carbon footprint.\n\nBased on our tested lab specifications, our densified rice husk pellets deliver a consistent calorific value of 3,200 to 3,800 kcal/kg. This makes them a highly efficient renewable boiler fuel for direct firing or co-firing with traditional fuels.\n\nWhen you use densified pellets instead of loose husk, you save massive amounts of factory storage space. The fuel burns longer, hotter, and with much better consistency. Your boiler operators will love how clean and easy these pellets are to handle.\n\nAbout our company: Beyond supplying premium biomass fuels to energy plants, Ambika Biotech is a leading rice husk ash manufacturer India. We support green manufacturing globally as a dedicated bulk rice husk ash supplier. We provide major industrial buyers with an eco-friendly silica alternative that performs exceptionally well in industrial applications. We proudly ship worldwide as a trusted rice husk ash exporter Germany, rice husk ash exporter Poland, rice husk ash exporter Spain, and rice husk ash exporter Vietnam. We are an ISO quality rice husk ash supplier you can count on for consistent quality and timely global delivery.\n\nwww.rhaindia.com\n📞 +91-7381757575\nContact us for bulk orders, OEM supply and export inquiries.\n\n#BiomassFuel #RiceHuskPellets #BoilerFuel #IndustrialBoilers #RenewableEnergy #CoFiring #GreenManufacturing #RHAIndia #BiomassEnergy #IndustrialFuel",
+  "imagePrompt": "Photorealistic industrial marketing scene. A close-up of premium brown biomass fuel pellets (Rice Husk Pellets) neatly piled next to a clean industrial boiler system. No molten steel. Next to the pile is the official Ambika branded bag: navy blue top half with a golden crown logo and 'AMBIKA RHA', yellow bottom half with the bold text 'Rice Husk Pellets' and 'EXPORT QUALITY PRODUCT OF INDIA'. Professional factory lighting, sharp focus. Text overlay at the bottom: 'www.rhaindia.com'.",
+  "image": "images/2026-09-19-rice-husk-pellets.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
