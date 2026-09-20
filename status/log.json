@@ -1906,5 +1906,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-09-20",
+  "product": "Rice Husk",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 403 Client Error: Forbidden for url: https://api.github.com/repositories/1275044416/contents/public/images/blog/the-natural-power-of-raw-rice-husk-for-farming-nurseries-and-biomass-f.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🌱 Why Smart Farmers Love Raw Rice Husk",
+  "caption": "🌱 Why Smart Farmers Love Raw Rice Husk\n\nLooking for a natural way to improve your soil or keep your poultry farm clean? Our raw golden rice husk is the perfect eco-friendly choice for your business.\n\nBefore it is processed to make industrial materials, raw rice husk is incredibly useful on its own. Farmers and plant nurseries all over the world use it to get better agricultural results.\n\nWhy it matters:\n✔ Keeps plant roots moist and highly healthy\n✔ Acts as a soft, dry natural poultry bedding\n✔ Makes a clean and cheap packing material\n✔ Serves as a perfect base for growing media\n\nAccording to Wikipedia, raw rice husk works very well as a soil ameliorant and growing substrate. It helps provide vital water retention to keep plants alive during dry spells.\n\nIt is also a highly popular biomass fuel. Boiler operators love it because it burns well and saves money compared to coal.\n\nWe are best known around the world as a bulk rice husk ash supplier. We regularly ship out orders as a trusted rice husk ash exporter Saudi Arabia, Qatar, and Germany. The exact same clean golden husk we use to make our sustainable silica powder is available for your direct use. \n\nWhether you run a large greenhouse, a poultry farm, or a biomass plant, you need a reliable source. As a premier industrial raw material exporter India, Ambika ensures your husk is dry, golden, and safely packed. We ship exactly what you need, right on time.\n\nOur facility in Sambalpur, Odisha, handles huge volumes of this golden material every day. This means you never have to worry about running out of stock during peak seasons.\n\nContact us for bulk orders, OEM supply and export inquiries.\nwww.rhaindia.com\n+91-7381757575\n\n#RiceHusk #GrowingMedia #Horticulture #BiomassFuel #PoultryBedding #SoilAmeliorant #SustainableFarming #RHAIndia #BulkSupplier #ExportQualityIndia",
+  "imagePrompt": "Photorealistic industrial agricultural scene. A pile of clean, golden loose raw rice husk used as a growing substrate in a bright, modern plant nursery or greenhouse. Next to the pile is a large branded industrial packaging bag. The bag has a navy blue top, a golden crown logo with 'AMBIKA RHA', a yellow bottom with the exact product name 'RICE HUSK', and 'EXPORT QUALITY PRODUCT OF INDIA'. A clear text overlay reads 'www.rhaindia.com'. NO steel scenes, NO ash, NO powder, ONLY golden loose raw husk.",
+  "image": "images/2026-09-20-rice-husk.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
