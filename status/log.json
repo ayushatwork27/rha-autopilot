@@ -1928,5 +1928,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-09-21",
+  "product": "Rice Husk Ash Powder",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 403 Client Error: Forbidden for url: https://api.github.com/repositories/1275044416/contents/public/images/blog/how-rice-husk-ash-powder-makes-concrete-stronger-and-cheaper.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🏗️ Make Stronger Concrete with Less Cement",
+  "caption": "🏗️ Make Stronger Concrete with Less Cement\n\nWant to cut cement costs and build stronger structures? Adding our fine ash to your mix is a smart move.\n\nWhy it matters:\n✔ Lowers your total cement demand.\n✔ Acts as a smart micro silica alternative.\n✔ Fills tiny gaps for tighter concrete.\n✔ Drops your carbon footprint easily.\n\nOur amorphous silica powder is extremely fine. It has a Blaine fineness of about 3600, while normal cement is only 2800 to 3000. This means our high silica powder fits perfectly into tiny spaces where sand and cement simply cannot reach.\n\nIn fact, research published in MDPI Sustainability (2025) shows a big benefit. Replacing up to 30% of cement with RHA can drop CO2 by nearly 40%. It also improves the concrete's resistance to acid and chlorides. \n\nAs a trusted rice husk ash powder exporter India, we supply material with over 90% active silica to help your concrete perform better. We proudly ship to builders and plants in the UAE, Saudi Arabia, Germany, Japan, and Vietnam.\n\nGet export quality rice husk ash for your next big project.\n\nwww.rhaindia.com\n+91-7381757575\nContact us for bulk orders, OEM supply and export inquiries.\n\n#RiceHuskAsh #ConcreteConstruction #MicroSilicaAlternative #AmorphousSilica #GreenSilica #RHAIndia #ExportQuality #CementReplacement",
+  "imagePrompt": "Photorealistic industrial marketing scene at a modern ready-mix concrete plant. A clear glass beaker holding fine grey-white rice husk ash powder sits next to a freshly cured concrete testing block. In the foreground, the branded Ambika bag stands upright (navy blue top, golden crown 'AMBIKA RHA', yellow bottom with the text 'RICE HUSK ASH POWDER', 'EXPORT QUALITY PRODUCT OF INDIA'). Bright natural lighting, professional B2B style. Crisp text overlay reads: 'www.rhaindia.com'.",
+  "image": "images/2026-09-21-rice-husk-ash-powder.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
