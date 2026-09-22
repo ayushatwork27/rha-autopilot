@@ -1950,5 +1950,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-09-22",
+  "product": "Rice Husk Ash Granules",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 403 Client Error: Forbidden for url: https://api.github.com/repositories/1275044416/contents/public/images/blog/why-rice-husk-ash-granules-are-the-best-dust-free-ladle-covering-compo.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🏭 Dust-Free Insulation for Your Ladle and Tundish",
+  "caption": "🏭 Dust-Free Insulation for Your Ladle and Tundish\n\nYou want to keep your molten steel hot, but pouring fine powder can create a huge dust cloud in your shop. Our rice husk ash granules solve this messy problem easily and quickly.\n\nThey give you the exact same thermal insulation as ash powder, but without the airborne mess. As a trusted steel plant raw material supplier, we know a clean shop floor is a safe and efficient shop floor.\n\nWhy it matters:\n✔ Easy manual or mechanical spreading\n✔ No messy dust clouds for your workers\n✔ Stays firmly put under strong furnace drafts\n✔ Acts as an excellent slag control material\n\nAccording to industry experts at IspatGuru, a quality ladle covering compound reduces radiation heat loss on liquid steel right before continuous casting. This step is critical for smooth steel production. Our rice husk ash granules give you this exact protection. They are made directly from our high SiO2 rice husk ash (tested at over 90% silica) and formed into clean 1 to 5 mm pieces.\n\nBecause they are granular, they will not blow away when the drafts hit your ladle. You get better melt coverage and less wasted material. Whether you run a large steel melting shop or a smaller foundry, these granules are very easy to handle.\n\nWe are a proud ladle covering compound supplier shipping globally. We actively serve markets worldwide, operating as a reliable rice husk ash exporter Spain, Italy, Vietnam, and Saudi Arabia. You can trust our packaging and quality control for every single shipment.\n\nGet consistent heat retention, safer handling, and a much cleaner plant floor today.\n\nContact us for bulk orders, OEM supply and export inquiries.\n🌐 www.rhaindia.com\n📞 +91-7381757575\n\n#RiceHuskAsh #SteelIndustry #Foundry #SteelMeltingShop #Metallurgy #SlagControl #ExportIndia",
+  "imagePrompt": "Photorealistic industrial marketing scene inside a clean steel melting shop. In the foreground, a branded Ambika bag sits neatly on a wooden pallet. The bag has a navy blue top, a golden crown logo 'AMBIKA RHA', and a bright yellow bottom reading 'Rice Husk Ash Granules' and 'EXPORT QUALITY PRODUCT OF INDIA'. Next to the bag is a small, clear pile of small, round, grey rice husk ash granules (1-5mm size). In the slightly blurred background, a glowing steel ladle is visible being processed. Text overlay across the bottom reads 'www.rhaindia.com'.",
+  "image": "images/2026-09-22-rice-husk-ash-granules.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
