@@ -2038,5 +2038,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-09-26",
+  "product": "Rice Husk Pellets",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 403 Client Error: Forbidden for url: https://api.github.com/repositories/1275044416/contents/public/images/blog/why-rice-husk-pellets-are-the-smart-choice-for-industrial-boilers.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🔥 Keep Your Boilers Running Smoothly",
+  "caption": "🔥 Keep Your Boilers Running Smoothly\n\nRunning a factory boiler takes constant attention. You do not want irregular fuel pieces jamming your feed lines.\n\nThat is why smart operators switch to uniform densified fuel. It keeps your fire steady and your plant running.\n\nWhy it matters:\n✔ Burns steady for reliable factory heat.\n✔ Leaves much less ash than dirty coal.\n✔ Feeds easily without blocking mechanical lines.\n✔ Drops your plant carbon footprint quickly.\n\nOur tested specification gives a solid calorific value of 3,200 to 3,800 kcal/kg. This makes our densified raw husk biomass fuel perfect for factory co-firing.\n\nAs a premium rice husk pellets manufacturer India, we ensure strict quality. We are a leading industrial raw material exporter India for global biomass plants.\n\nWe regularly ship export quality rice husk pellets to factories worldwide. We are proud to be a trusted biomass fuel exporter UAE and a reliable biomass fuel exporter Poland.\n\nReady to upgrade your boiler fuel?\n\nwww.rhaindia.com\n+91-7381757575\nContact us for bulk orders, OEM supply and export inquiries.\n\n#RiceHuskPellets #BiomassFuel #BoilerFuel #RenewableEnergy #GreenEnergy #RHAIndia #IndustrialFuel",
+  "imagePrompt": "Photorealistic industrial scene inside a modern biomass energy plant. In the foreground, a large branded Ambika bag sits near a clean industrial boiler. The bag has a navy blue top, golden crown 'AMBIKA RHA' logo, and a yellow bottom reading 'Rice Husk Pellets' and 'EXPORT QUALITY PRODUCT OF INDIA'. Brown, cylindrical densified biomass fuel pellets are neatly piled next to the bag. Background shows glowing boiler firebox, strictly no molten steel. Text overlay at the bottom: \"www.rhaindia.com\".",
+  "image": "images/2026-09-26-rice-husk-pellets.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
