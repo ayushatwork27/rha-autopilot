@@ -2060,5 +2060,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-09-27",
+  "product": "Rice Husk",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 403 Client Error: Forbidden for url: https://api.github.com/repositories/1275044416/contents/public/images/blog/why-golden-raw-rice-husk-is-the-perfect-growing-substrate-and-farm-bed.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🌾 Natural Plant Substrate & Animal Bedding",
+  "caption": "🌾 Keep Your Plants Happy & Farm Animals Dry\n\nNeed a clean natural material for your farm or greenhouse?\nGolden loose rice husk is a simple and cheap choice for agriculture.\n\nMany farm owners struggle to find safe, dry bedding for their animals. Plant nurseries often need a light material to mix into heavy potting soil. Boiler operators want cheaper ways to make steam. Raw rice husk solves all these problems easily. It comes straight from the mill, completely natural and ready to use. \n\nAre you paying too much for expensive wood chips or soil conditioners? Switching to raw rice husk saves you money. \n\nWhy it matters:\n✔ Keeps soil loose so plant roots can easily breathe.\n✔ Holds extra water during hot and dry summer months.\n✔ Makes warm, soft, and highly absorbent bedding for poultry.\n✔ Works great as cheap and renewable boiler fuel.\n✔ Protects fragile items naturally as a safe packing material.\n\nAccording to Wikipedia, raw rice hull is widely used as an excellent soil ameliorant and growing substrate. It improves soil structure and helps with long-term water retention naturally.\n\nWhen you use it for poultry beds, it absorbs moisture quickly. This keeps your farm animals clean and lowers disease risks. For plant growers, it stops heavy dirt from packing down too hard. \n\nNeed bulk supply for your farm, nursery, or heating boiler? We sort our golden husk carefully to give you clean, dry material. As a trusted industrial raw material exporter India, Ambika Rice Mill ships premium quality bulk orders globally. We are a proud rice husk exporter UAE, Qatar, Netherlands, Australia, and the USA.\n\nwww.rhaindia.com\n📞 +91-7381757575\nContact us for bulk orders, OEM supply and export inquiries.\n\n#RiceHusk #Agriculture #PoultryBedding #BiomassFuel #SoilSubstrate #Horticulture #RHAIndia #ExportIndia",
+  "imagePrompt": "Photorealistic industrial marketing scene. A large, clean pile of bright golden loose raw rice husk sitting in a sunny commercial greenhouse next to green plants. NO grey powder, NO molten steel, NO factory machines. Next to the golden pile sits a branded Ambika bag standing upright. The bag has a navy blue top, a golden crown logo 'AMBIKA RHA', and a yellow bottom with the bold text 'RAW RICE HUSK' and 'EXPORT QUALITY PRODUCT OF INDIA'. Bright, clean agricultural setting. Crisp text overlay reads exactly 'www.rhaindia.com'.",
+  "image": "images/2026-09-27-rice-husk.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
