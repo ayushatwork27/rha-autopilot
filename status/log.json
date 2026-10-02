@@ -2170,5 +2170,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-10-02",
+  "product": "Rice Husk Powder",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 403 Client Error: Forbidden for url: https://api.github.com/repositories/1275044416/contents/public/images/blog/why-rice-husk-powder-is-the-perfect-filler-for-particle-boards-and-wpc.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🪵 A Better Organic Filler for Boards and Composites",
+  "caption": "🪵 A Better Organic Filler for Boards and Composites\n\nNeed a natural, reliable filler for your particle boards or incense sticks? Finding the right organic material can be tough. Finely ground rice husk powder is exactly what you are looking for. \n\nWhy it matters:\n✔ Blends perfectly: Consistent fine powder mixes easily into your resins.\n✔ Lowers your costs: Replaces expensive wood dust in your daily recipes.\n✔ Highly versatile: Perfect for wood-polymer composites and incense bases.\n✔ Always in stock: We supply large volumes so your plant never stops.\n\nOur rice husk powder is simply 100% natural ground raw husk. It is not burned ash. It is completely rich in organic cellulose and lignin. These natural fibers give strength to your boards. \n\nWe carefully control the grinding process right at our own factory. We screen the powder to remove any large pieces. This means you get a consistent size in every single bag. Your production line will run smoothly without any blockages. \n\nMany factories are switching from costly wood flour to rice husk. It is an earth-friendly choice that saves you money. It works great as a base for incense sticks too. The fine texture holds the shape perfectly. \n\nFinding a good bulk rice husk powder supplier is easy with Ambika. As a leading industrial raw material exporter in India, we know how to handle big orders. We provide custom packaging to keep the powder safe and dry during transport. \n\nWe proudly ship this export quality product across the globe. Our happy buyers are located in the UAE, Vietnam, Turkey, Poland, and Malaysia. We handle the export logistics so you can focus on making great products. \n\nContact us for bulk orders, OEM supply and export inquiries.\nwww.rhaindia.com\n+91-7381757575\n\n#RiceHuskPowder #WoodPolymerComposite #ParticleBoard #IncenseSticks #RawMaterialSupplier #BiomassFiller #AmbikaRHA #RHAIndia #BulkExporter",
+  "imagePrompt": "Photorealistic industrial marketing scene set in a clean board manufacturing factory. Foreground features a large branded Ambika bag (navy blue top, golden crown logo 'AMBIKA RHA', yellow bottom with exact text 'RICE HUSK POWDER', and 'EXPORT QUALITY PRODUCT OF INDIA'). The bag is open, displaying fine, tan-colored organic powder. A small neat mound of this tan powder sits beside the bag on a wooden table. No steel or molten metal scenes. Bright, professional lighting. Text overlay at the bottom: 'www.rhaindia.com'.",
+  "image": "images/2026-10-02-rice-husk-powder.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
