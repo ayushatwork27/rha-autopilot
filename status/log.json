@@ -2192,5 +2192,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-10-03",
+  "product": "Rice Husk Pellets",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 403 Client Error: Forbidden for url: https://api.github.com/repositories/1275044416/contents/public/images/blog/how-rice-husk-pellets-reduce-boiler-fuel-costs-for-industrial-plants.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🔥 Slash Coal Costs with Rice Husk Pellets",
+  "caption": "🔥 Slash Coal Costs with Rice Husk Pellets\n\nRunning an industrial boiler is expensive. Coal prices keep going up, and emissions rules get stricter every year.\n\nWhy it matters:\n✔ Cuts down your daily fuel costs easily.\n✔ Burns steady and hot for reliable steam.\n✔ Leaves less ash behind for faster clean-up.\n✔ Helps your plant meet green energy goals.\n\nOur Rice Husk Pellets are made purely from compressed raw husk biomass. Based on our tested specifications, they deliver a strong calorific value of 3,200 to 3,800 kcal/kg. It is a clean, renewable fuel that is perfect for co-firing or running your factory boilers full-time.\n\nAs a trusted industrial raw material exporter India, we deliver consistent biomass fuel globally. Whether you need a reliable rice husk pellets exporter Germany, a bulk supplier to the Netherlands, or regular shipments to Spain and the USA, we can support your energy needs.\n\nContact us for bulk orders, OEM supply and export inquiries.\nwww.rhaindia.com\n+91-7381757575\n\n#RiceHuskPellets #BiomassFuel #IndustrialBoiler #CoFiring #GreenEnergy #BioEnergy #BoilerFuel #RenewableEnergy #RHAIndia #AmbikaBiotech",
+  "imagePrompt": "Photorealistic industrial scene showing BROWN biomass fuel pellets staged neatly near an industrial boiler furnace in a clean energy plant. NO molten steel. In the foreground, a highly detailed, standing woven sack packaging. The bag features a navy blue top section, a golden crown logo with 'AMBIKA RHA', and a yellow bottom section boldly displaying the product name 'Rice Husk Pellets' and 'EXPORT QUALITY PRODUCT OF INDIA'. Bright, clean factory lighting. Text overlay 'www.rhaindia.com'.",
+  "image": "images/2026-10-03-rice-husk-pellets.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
