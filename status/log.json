@@ -2214,5 +2214,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-10-04",
+  "product": "Rice Husk",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 403 Client Error: Forbidden for url: https://api.github.com/repositories/1275044416/contents/public/images/blog/raw-rice-husk-as-biomass-fuel-a-cost-effective-boiler-feedstock.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🔥 Power Your Industrial Boilers with Natural Biomass",
+  "caption": "🔥 Power Your Industrial Boilers with Natural Biomass\n\nRunning a large industrial boiler takes a lot of fuel and money. Finding a cheap energy source that is also kind to the earth is a challenge.\n\nWhy it matters:\n✔ Lowers fuel costs compared to expensive coal\n✔ Burns steadily for reliable plant heating\n✔ Shrinks your factory carbon footprint easily\n✔ Steady bulk supply for large energy plants\n\nRaw rice husk is a proven biomass fuel. Boiler operators love it because it burns well and saves money. We process tonnes of this material into high silica powder every day. But the raw golden husk is also a fantastic boiler feedstock on its own.\n\nWe are a top rice husk ash manufacturer India. As a bulk rice husk ash supplier, we have massive volumes ready. We are a trusted industrial raw material exporter India. We ship raw husk regularly to Japan, South Korea, UAE, and Vietnam.\n\nReady to fuel your plant with green energy? Let's talk.\n\nwww.rhaindia.com\n+91-7381757575\nContact us for bulk orders, OEM supply and export inquiries.\n\n#RiceHusk #BiomassFuel #BoilerFeedstock #RenewableEnergy #IndustrialFuel #AmbikaRHA",
+  "imagePrompt": "Photorealistic industrial scene of a large biomass fuel yard at a power plant. Huge mounds of bright golden loose rice husk (raw unburned husk, no pellets). In the foreground, a large industrial bulk bag with a navy blue top, golden crown logo 'AMBIKA RHA', yellow bottom with bold text 'RICE HUSK' and 'EXPORT QUALITY PRODUCT OF INDIA'. Bright daylight, neat industrial setting. Crisp text overlay 'www.rhaindia.com' at the bottom.",
+  "image": "images/2026-10-04-rice-husk.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
