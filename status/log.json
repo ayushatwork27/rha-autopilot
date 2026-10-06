@@ -2258,5 +2258,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-10-06",
+  "product": "Rice Husk Ash Granules",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 403 Client Error: Forbidden for url: https://api.github.com/repositories/1275044416/contents/public/images/blog/why-granular-covering-compounds-are-cleaner-for-steel-plants.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🏭 Stop the Mess on Your Casting Floor",
+  "caption": "Fine powders blowing around the plant make continuous casting messy and hard on the lungs. You need a covering material that goes onto the hot metal and stays exactly there.\n\nWhy it matters:\n✔ Heavier 1-5mm pieces won't blow away.\n✔ Keeps plant air much cleaner for operators.\n✔ Spreads easily by hand or auto-feeders.\n✔ Traps heat inside to stop early metal freezing.\n\nAccording to steel experts at IspatGuru, a quality ladle covering compound reduces radiation heat loss on liquid steel right before casting. Our rice husk ash granules give you that solid thermal barrier without the dust clouds. Packed with 90%+ amorphous silica, this continuous casting unit insulation performs perfectly from start to finish.\n\nWe know consistency matters for your steel melting shop. As a bulk rice husk ash exporter Germany and Poland trust, we deliver export quality rice husk ash that keeps your operations running smoothly. Whether you need an effective tundish insulation powder or a reliable metallurgical flux material, we have you covered.\n\nWe ship globally to Italy, Poland, Germany, Vietnam, and the USA.\n\nVisit www.rhaindia.com\nCall +91-7381757575\nContact us for bulk orders, OEM supply and export inquiries.\n\n#RiceHuskAsh #SteelIndustry #ContinuousCasting #Foundry #SteelPlant #Tundish #RHAIndia #ExportQuality",
+  "imagePrompt": "Photorealistic industrial marketing scene. Close up of 1-5mm round grey rice husk ash granules resting neatly on a metal ledge near glowing molten steel in a clean factory. Next to it, the branded Ambika bag stands upright: navy blue top, golden crown with 'AMBIKA RHA', yellow bottom with 'RICE HUSK ASH GRANULES' and 'EXPORT QUALITY PRODUCT OF INDIA'. Bold text overlay: \"www.rhaindia.com\". Crisp factory lighting, no dust clouds, bright and professional.",
+  "image": "images/2026-10-06-rice-husk-ash-granules.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
