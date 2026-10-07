@@ -2280,5 +2280,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-10-07",
+  "product": "Rice Husk Ash Small Granules",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 403 Client Error: Forbidden for url: https://api.github.com/repositories/1275044416/contents/public/images/blog/why-small-granules-are-the-ideal-tundish-covering-compound-for-steel-m.png",
+   "email": "off (disabled)"
+  },
+  "headline": "⚙️ The Sweet Spot for Steel Melting Insulation",
+  "caption": "Are you tired of dusty floors in your steel plant? Finding the perfect insulation for liquid steel can be hard. Very fine powders fly away in the draft. On the other hand, large pieces spread too slowly over the melt.\n\nThat is exactly why we make Rice Husk Ash Small Granules. Sized perfectly between 0.5 and 2 mm, they give you the best of both worlds.\n\nWhy it matters:\n✔ Spreads fast over molten metal for instant cover.\n✔ Heavy enough to stop massive dust clouds.\n✔ 90%+ silica traps heat inside the ladle.\n✔ Keeps your casting floor much cleaner.\n\nAccording to industry guides like IspatGuru, an effective ladle covering compound stops radiation heat loss on liquid steel before continuous casting. Heat loss wastes energy and hurts metal quality. Our small granules melt into a thick, dark crust fast. This traps the heat right where it belongs. They are a highly effective high temperature insulating powder.\n\nWe test our granules strictly to ensure high purity. You get over 90% amorphous silica in every bag. This makes it an ideal rice husk ash for continuous casting. It acts as a perfect tundish covering compound for steel melting shops.\n\nWe proudly ship our material worldwide. We are a trusted bulk rice husk ash supplier and an active rice husk ash exporter Italy, Spain, Poland, and the USA. Whether you run a steel mill or need a reliable refractory raw material supplier, we deliver steady quality.\n\nYou deserve a partner who understands your plant needs. Choose a top-rated rice husk ash supplier India for your next shipment.\n\nContact us for bulk orders, OEM supply and export inquiries.\n🌐 www.rhaindia.com\n📞 +91-7381757575\n\n#RiceHuskAsh #SteelIndustry #ContinuousCasting #TundishCovering #Refractory #Metallurgy #SteelPlant #RHAIndia",
+  "imagePrompt": "Photorealistic industrial marketing scene inside a clean steel melting shop. A large industrial bag sits clearly in the foreground. The bag design features a navy blue top with a golden crown and 'AMBIKA RHA', and a yellow bottom reading 'Rice Husk Ash Small Granules' and 'EXPORT QUALITY PRODUCT OF INDIA'. Next to the bag is a heavy metal scoop filled with fine, round grey granules (0.5 to 2mm size). In the softly blurred background, glowing molten steel is visible in a casting area. Professional lighting. Text overlay: 'www.rhaindia.com'.",
+  "image": "images/2026-10-07-rice-husk-ash-small-granules.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
