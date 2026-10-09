@@ -2324,5 +2324,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-10-09",
+  "product": "Rice Husk Powder",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 403 Client Error: Forbidden for url: https://api.github.com/repositories/1275044416/contents/public/images/blog/why-rice-husk-powder-is-the-perfect-base-for-incense-sticks.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🌸 A Smooth-Burning Base for Your Incense Sticks",
+  "caption": "🌸 A Smooth-Burning Base for Your Incense Sticks\n\nMaking great incense sticks requires a reliable base powder. It needs to hold its shape, blend well, and burn evenly.\n\nWhy it matters:\n✔ Consistent fine grind for a smooth paste\n✔ Great natural carrier for rich fragrances\n✔ Burns cleanly with an even organic glow\n✔ 100% natural cellulose and lignin material\n\nOur tested specification shows this ground raw husk is purely organic. It is completely free from ash. This makes it perfect for incense, board filling, and cattle feed. As an industrial raw material exporter India relies on, we ensure strict quality.\n\nWe proudly ship export quality material to UAE, Saudi Arabia, Qatar, and Vietnam. Whether you need a bulk supplier or an OEM manufacturer, we have you covered.\n\nContact us for bulk orders, OEM supply and export inquiries.\nwww.rhaindia.com\n+91-7381757575\n\n#RiceHuskPowder #IncenseSticks #AgarbattiRawMaterial #OrganicFiller #BiomassPowder #IndustrialExporter #AmbikaBiotech",
+  "imagePrompt": "Photorealistic industrial marketing scene inside a clean incense manufacturing workspace. Mounds of fine, tan organic powder (ground raw husk, NOT ash) sit ready for mixing. Center focus: a professional branded bag. The bag features a navy blue top, golden crown logo 'AMBIKA RHA', a yellow bottom with bold text 'RICE HUSK POWDER', and 'EXPORT QUALITY PRODUCT OF INDIA'. Text overlay on the image reads 'www.rhaindia.com'. Warm natural lighting. NO molten steel, NO grey ash.",
+  "image": "images/2026-10-09-rice-husk-powder.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
