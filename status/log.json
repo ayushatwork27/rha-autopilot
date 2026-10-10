@@ -2346,5 +2346,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-10-10",
+  "product": "Rice Husk Pellets",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 401 Client Error: Unauthorized for url: https://api.github.com/repos/KrishnaSaha11/rhaindiawebsite/contents/public/images/blog/how-to-lower-industrial-boiler-fuel-costs-with-densified-rice-husk-pel.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🔥 Burn Cleaner Fuel in Your Factory Boiler",
+  "caption": "🔥 Burn Cleaner Fuel in Your Factory Boiler\n\nRunning an industrial steam boiler takes massive amounts of fuel. If your plant relies strictly on coal, you are likely facing rising energy costs. Heavy carbon emissions also bring unwanted pressure. \n\nSwitching entirely to new energy systems is too expensive for most factories. But what if you could simply upgrade the fuel you feed it?\n\nWhy it matters:\n\n✔ Drops straight into your existing boiler systems\n✔ Mixes perfectly with coal for simple co-firing\n✔ Delivers steady heat due to a uniform pellet shape\n✔ Reduces your overall monthly fuel spending\n✔ Leaves behind much less ash compared to coal\n\nBased on our tested specification, our densified Rice Husk Pellets deliver a calorific value of 3,200 to 3,800 kcal/kg. Compacting the raw husk into tight cylindrical pellets makes them incredibly energy-dense. This guarantees easier transport, less storage space, and smoother auto-feeding into your furnace.\n\nFinding a consistent biomass fuel supply can be difficult. Ambika Biotech makes it simple. As a top industrial raw material exporter India, we supply premium boiler feedstock to energy plants worldwide. Whether you need a trusted rice husk pellets exporter Japan, a reliable rice husk pellets exporter South Korea, or a bulk shipper to the UAE, we deliver on time. \n\nStop overpaying for dirty fossil fuels. Keep your boilers running hot with a cleaner, renewable choice today.\n\nwww.rhaindia.com\n+91-7381757575\nContact us for bulk orders, OEM supply and export inquiries.\n\n#BiomassFuel #RiceHuskPellets #IndustrialBoilers #RenewableEnergy #BoilerFuel #GreenEnergy #AmbikaBiotech #RHAIndia",
+  "imagePrompt": "Photorealistic industrial marketing scene. A bright, clean industrial boiler room setting. In the foreground, a large pile of brown, densified rice husk biomass fuel pellets. Next to the pile sits a heavy-duty Ambika brand bulk bag. The bag features a navy blue top with a golden crown logo reading 'AMBIKA RHA', and a yellow bottom with the bold text 'Rice Husk Pellets' and 'EXPORT QUALITY PRODUCT OF INDIA'. A glowing industrial furnace is slightly out of focus in the background. Crisp text overlay on the image reads: 'www.rhaindia.com'.",
+  "image": "images/2026-10-10-rice-husk-pellets.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
