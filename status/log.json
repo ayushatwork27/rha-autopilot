@@ -2368,5 +2368,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-10-11",
+  "product": "Rice Husk",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 401 Client Error: Unauthorized for url: https://api.github.com/repos/KrishnaSaha11/rhaindiawebsite/contents/public/images/blog/why-farms-and-nurseries-use-raw-rice-husk-for-better-soil-health.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🌿 Grow Healthier Plants With Natural Rice Husk",
+  "caption": "Looking for a natural way to improve your soil?\n\nLoose raw rice husk is a simple, organic material. It helps plant roots breathe and grow strong.\n\nMany large nurseries and farms struggle with heavy, hard dirt. Hard dirt blocks water and stops root growth. Adding loose husk fixes this problem naturally. It creates tiny air pockets in the ground.\n\nWhy it matters:\n✔ Keeps farm soil loose and airy.\n✔ Holds water well during dry spells.\n✔ Prevents plant roots from rotting safely.\n✔ Great bulk base for growing media.\n✔ Gives you an eco-friendly farming choice.\n\nAccording to Wikipedia, farmers use raw husk as a soil ameliorant and growing substrate. It naturally improves water retention in the dirt. This means you spend less money watering your crops.\n\nYou can also use this loose golden material for clean poultry bedding. It absorbs moisture fast and keeps animals dry.\n\nFinding clean, dry husk in huge volumes can be tough. We make it easy. We are a trusted bulk rice husk supplier and industrial raw material exporter India. \n\nWe sift our husk to remove dust and large stones. Every bag leaves our factory tightly packed and fully dry. This saves you money on global shipping costs.\n\nWe safely pack and ship export quality rice husk around the world. We proudly serve agricultural buyers in the UAE, Saudi Arabia, South Korea, and Vietnam. \n\nWhether you need soil additives or animal bedding, we have you covered. We supply consistent quality all year long.\n\nwww.rhaindia.com\n+91-7381757575\nContact us for bulk orders, OEM supply and export inquiries.\n\n#RiceHusk #OrganicFarming #SoilHealth #Horticulture #PlantNursery #PoultryBedding #BiomassExporter #AmbikaBiotech #AgricultureIndia",
+  "imagePrompt": "Photorealistic agricultural marketing scene. A large, bright plant nursery and farming field in the background. In the foreground, neat piles of golden, loose raw rice husk used for soil mixing. Several branded Ambika bags stand upright. Bag design: navy top, golden crown 'AMBIKA RHA' logo, yellow bottom with product name 'Rice Husk', and 'EXPORT QUALITY PRODUCT OF INDIA'. The loose golden husk looks clean and dry. No ash, no grey powder, no molten steel. Professional lighting. Text overlay: \"www.rhaindia.com\".",
+  "image": "images/2026-10-11-rice-husk.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
