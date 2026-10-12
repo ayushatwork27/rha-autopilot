@@ -2390,5 +2390,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-10-12",
+  "product": "Rice Husk Ash Powder",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 401 Client Error: Unauthorized for url: https://api.github.com/repos/KrishnaSaha11/rhaindiawebsite/contents/public/images/blog/how-ladle-covering-compounds-reduce-heat-loss-in-steel-casting.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🏭 Keep Molten Steel Hot and Flowing",
+  "caption": "🏭 Keep Molten Steel Hot and Flowing\n\nMaintaining the right temperature in your steel ladle isn't easy. You need a reliable cover to stop the heat from escaping before casting.\n\nWhy it matters:\n✔ Traps heat deep inside the ladle\n✔ Prevents a hard crust from forming\n✔ Spreads fast over the liquid surface\n✔ Lowers your overall energy costs\n\nAccording to the steel industry resource IspatGuru, a quality ladle covering compound drastically reduces radiation heat loss on liquid steel right before continuous casting. Our powder acts as an excellent molten metal covering compound, giving you exactly that protection with our tested 90%+ high SiO2 rice husk ash.\n\nLooking for a trusted ladle covering compound supplier? We export fine, high-purity ash powder to steel melting shops in the UAE, Saudi Arabia, Oman, Germany, and South Korea. As a premier rice husk ash powder exporter India, we ensure top quality for your continuous casting unit insulation.\n\nwww.rhaindia.com\n📞 +91-7381757575\nContact us for bulk orders, OEM supply and export inquiries.\n\n#RiceHuskAsh #SteelMeltingShop #LadleCoveringCompound #FoundrySupplies #ContinuousCasting #RHAIndia #ExportQuality #AmorphousSilica",
+  "imagePrompt": "Photorealistic industrial marketing scene. Fine grey-white rice husk ash powder being safely applied over a glowing hot molten steel ladle in a modern steel melting shop. In the foreground, a clear, crisp branded Ambika bag stands upright. Bag design: navy blue top, golden crown logo reading 'AMBIKA RHA', bright yellow bottom with the bold text 'RICE HUSK ASH POWDER', and 'EXPORT QUALITY PRODUCT OF INDIA'. Text overlay on the image reads 'www.rhaindia.com'. Dramatic industrial lighting with glowing orange metal contrasting with the grey-white powder.",
+  "image": "images/2026-10-12-rice-husk-ash-powder.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
