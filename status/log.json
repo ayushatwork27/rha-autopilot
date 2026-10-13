@@ -2412,5 +2412,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-10-13",
+  "product": "Rice Husk Ash Granules",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 401 Client Error: Unauthorized for url: https://api.github.com/repos/KrishnaSaha11/rhaindiawebsite/contents/public/images/blog/why-rice-husk-ash-granules-offer-dust-free-heat-insulation-for-steel-c.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🏭 Keep Liquid Steel Hot Without the Dust Cloud",
+  "caption": "🏭 Keep Liquid Steel Hot Without the Dust Cloud\n\nKeeping liquid steel hot during casting is a tough job. \nFine powders often blow away, but there is a cleaner way to trap that heat.\n\nWhy it matters:\n✔ Granules drop heavy and stay on the liquid metal.\n✔ Less dust creates a safer casting floor for workers.\n✔ High silica traps heat so steel flows smoothly.\n✔ Very easy to spread by hand or machine.\n\nAccording to industry sources like IspatGuru, a good ladle covering compound reduces radiation heat loss on liquid steel before continuous casting. Our rice husk ash granules do exactly this. They offer 90%+ SiO2 in a 1-5 mm round form, based on our tested specification. This shape stops drafts from blowing your metallurgical insulation powder away.\n\nAmbika Biotech is a reliable rice husk ash supplier India. We provide high SiO2 rice husk ash and silica for refractory plants globally. We proudly ship as a bulk rice husk ash exporter Germany, rice husk ash exporter UAE, and rice husk ash exporter South Korea.\n\nGet consistent, dust-free coverage for your steel making shop today. \n\nwww.rhaindia.com\n+91-7381757575\nContact us for bulk orders, OEM supply and export inquiries.\n\n#RiceHuskAsh #SteelIndustry #ContinuousCasting #RHAIndia #Metallurgy #RefractoryMaterials #SteelMeltingShop #Foundry",
+  "imagePrompt": "Photorealistic B2B industrial marketing scene inside a steel melting shop. In the foreground, a large branded Ambika bag stands clearly. The bag has a navy blue top section, a golden crown logo with 'AMBIKA RHA', and a yellow bottom section with the text 'Rice Husk Ash Granules' and 'EXPORT QUALITY PRODUCT OF INDIA'. Beside the bag, a small pile of 1-5mm round, grey rice husk ash granules rests on a steel table. In the blurred background, glowing orange molten steel is safely covered by a thick layer of these grey granules. Text overlay at the bottom: 'www.rhaindia.com'.",
+  "image": "images/2026-10-13-rice-husk-ash-granules.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
