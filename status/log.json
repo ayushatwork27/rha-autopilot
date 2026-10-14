@@ -2434,5 +2434,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-10-14",
+  "product": "Rice Husk Ash Small Granules",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 401 Client Error: Unauthorized for url: https://api.github.com/repos/KrishnaSaha11/rhaindiawebsite/contents/public/images/blog/why-small-granules-make-the-best-ladle-covering-compound-for-steel-mil.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🏭 Smart Insulation for Smoother Steel Casting",
+  "caption": "🏭 Smart Insulation for Smoother Steel Casting\n\nNeed to keep liquid steel hot but hate the mess of flying dust? Let's talk about finding a better balance on your casting floor.\n\nWhy it matters:\n✔ Spreads fast over molten metal.\n✔ Cuts down on airborne dust.\n✔ Traps the heat right where needed.\n✔ Makes continuous casting much safer.\n\nAccording to industry experts at IspatGuru, a good ladle covering compound reduces radiation heat loss on liquid steel before continuous casting. Our Rice Husk Ash Small Granules do exactly that. \n\nSized between 0.5 and 2 mm, they melt and spread quickly like a fine dust. But because they are granulated, they do not blow away easily under drafts. As a trusted rice husk ash manufacturer India, our granules pack the same 90%+ silica chemistry as our powders. \n\nIf you need a reliable tundish insulation powder or a high-quality metallurgical insulation powder, this finer granule is the perfect middle ground. We are a proud ladle covering compound supplier and rice husk ash exporter Italy, helping steel melting shops run cleaner and safer operations worldwide.\n\nContact us for bulk orders, OEM supply and export inquiries.\nwww.rhaindia.com\n+91-7381757575\n\n#RiceHuskAsh #SteelIndustry #LadleCoveringCompound #TundishInsulation #Metallurgy #ContinuousCasting #RHAIndia #ExportQuality #SteelPlant",
+  "imagePrompt": "Photorealistic industrial marketing scene inside a steel melting shop. In the foreground, a branded Ambika bag sits clearly: navy blue top, golden crown logo 'AMBIKA RHA', yellow bottom with product name 'Rice Husk Ash Small Granules', and 'EXPORT QUALITY PRODUCT OF INDIA'. Beside it, finer round grey granules (0.5-2 mm size) are cleanly shown. In the background, workers are spreading these fine grey granules over glowing molten metal in a ladle. Text overlay at the bottom: 'www.rhaindia.com'.",
+  "image": "images/2026-10-14-rice-husk-ash-small-granules.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
