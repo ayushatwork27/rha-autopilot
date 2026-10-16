@@ -2478,5 +2478,27 @@
    "recipients": [],
    "note": "disabled"
   }
+ },
+ {
+  "date": "2026-10-16",
+  "product": "Rice Husk Powder",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 401 Client Error: Unauthorized for url: https://api.github.com/repos/KrishnaSaha11/rhaindiawebsite/contents/public/images/blog/how-consistent-rice-husk-powder-improves-feed-mill-production.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🌾 Reliable Raw Material Supply for Global Feed Mills",
+  "caption": "🌾 Reliable Raw Material Supply for Global Feed Mills\n\nFinding a steady supply of feed filler should be simple. You need clean, finely ground husk that always arrives on time.\n\nWhy it matters:\n✔ Uniform grind size ensures easy and smooth mixing\n✔ Rich in natural cellulose for healthy cattle roughage\n✔ Clean organic material that is safe for dairies\n✔ Custom packed in durable bags for safe shipping\n\nOur Rice Husk Powder is carefully ground raw organic husk. It is completely different from combusted ash. This natural product gives you a consistent, safe base. It is perfect for your daily animal feed production. The fine texture blends smoothly with other added nutrients.\n\nGood animal nutrition requires good base ingredients. Feed makers need high-quality roughage carriers they can trust. We understand the strict needs of the feed industry. Every batch is precisely milled to meet exact standards. \n\nThis versatile powder also works well as an organic filler. Board manufacturers use it to make wood-polymer composites. It even acts as a natural oil absorbent for factory floors. We ensure a consistent grind for all these uses.\n\nAs a top industrial raw material exporter India, we deliver. You always get export quality material you can trust. We handle the grinding, packing, and global shipping carefully. Our team makes sure your factory never runs out. We proudly ship directly to the UAE, Saudi Arabia, and Qatar. We also supply buyers in the Netherlands and Germany.\n\nPartnering with the right bulk supplier saves you time. We offer competitive pricing for large factory orders.\n\nwww.rhaindia.com\nContact us for bulk orders, OEM supply and export inquiries.\nPhone +91-7381757575\n\n#RiceHuskPowder #AnimalFeed #FeedMill #IndustrialRawMaterial #ExportIndia #DairyFarming #Biomass #AmbikaRHA",
+  "imagePrompt": "Photorealistic industrial marketing scene inside a modern animal feed mill. Clean, bright environment. In the foreground, a large branded bag sits open, filled with fine, tan-colored ORGANIC Rice Husk Powder. The bag features a navy blue top, a golden crown 'AMBIKA RHA' logo, and a yellow bottom clearly labeled 'Rice Husk Powder' and 'EXPORT QUALITY PRODUCT OF INDIA'. In the background, out-of-focus feed mixing equipment. NO steel, NO molten metal, NO ash. Text overlay: \"www.rhaindia.com\".",
+  "image": "images/2026-10-16-rice-husk-powder.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
