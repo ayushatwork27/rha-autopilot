@@ -2546,5 +2546,13 @@
    "generation": "failed: 402 Client Error: Payment Required for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-latest:generateContent"
   },
   "headline": ""
+ },
+ {
+  "date": "2026-10-21",
+  "product": "Rice Husk Ash Small Granules",
+  "status": {
+   "generation": "failed: 402 Client Error: Payment Required for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-latest:generateContent"
+  },
+  "headline": ""
  }
 ]
