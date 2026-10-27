@@ -2594,5 +2594,27 @@
    "generation": "failed: 402 Client Error: Payment Required for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-latest:generateContent"
   },
   "headline": ""
+ },
+ {
+  "date": "2026-10-27",
+  "product": "Rice Husk Ash Granules",
+  "status": {
+   "compliance": "ok",
+   "image": "ok (nano banana)",
+   "linkedin": "failed: 'value'",
+   "blogger": "failed: 401 Client Error: Unauthorized for url: https://api.github.com/repos/KrishnaSaha11/rhaindiawebsite/contents/public/images/blog/why-rice-husk-ash-granules-are-the-ideal-ladle-covering-compound-for-s.png",
+   "email": "off (disabled)"
+  },
+  "headline": "🏭 Keep the Heat in the Ladle, Not the Roof",
+  "caption": "🏭 Keep the Heat in the Ladle, Not the Roof\n\nAre you losing heat before continuous casting?\nFine powder insulation often blows away under strong plant drafts.\n\nWhy it matters:\n✔ Granules stay exactly where you place them.\n✔ Easy to spread over liquid steel manually.\n✔ Less dust makes the casting floor safer.\n✔ High silica blocks heat loss fast.\n\nAccording to industry guides from IspatGuru, a good ladle covering compound reduces radiation heat loss on liquid steel. Our rice husk ash granules use 90%+ amorphous silica to do just that. They melt evenly to form a thick, protective crust over the molten metal.\n\nWe are a trusted ladle covering compound supplier. Looking for a reliable metallurgical insulation powder? We ship worldwide. If you need a rice husk ash exporter Spain, Italy, or Egypt, we have you covered.\n\nVisit www.rhaindia.com or call +91-7381757575.\nContact us for bulk orders, OEM supply and export inquiries.\n\n#RiceHuskAsh #SteelIndustry #LadleCoveringCompound #Foundry #Metallurgy #SteelMelting #RHAIndia",
+  "imagePrompt": "Photorealistic industrial marketing scene. Close-up of small ROUND grey rice husk ash granules (1-5mm) being smoothly spread over glowing molten steel in a large foundry ladle. Next to it stands the Ambika brand bag: navy blue top with golden crown 'AMBIKA RHA', yellow bottom with 'RICE HUSK ASH GRANULES' and 'EXPORT QUALITY PRODUCT OF INDIA'. Bold text overlay 'www.rhaindia.com'. Sharp focus, dramatic warm industrial lighting, faint sparks in the background.",
+  "image": "images/2026-10-27-rice-husk-ash-granules.png",
+  "email": {
+   "enabled": false,
+   "sent": 0,
+   "failed": 0,
+   "recipients": [],
+   "note": "disabled"
+  }
  }
 ]
